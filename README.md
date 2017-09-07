@@ -1,4 +1,4 @@
-# Garden-Generator
+# Garden Generator
 
 A  Houdini Digital Asset to quickly configure simple yet aesthetically believable garden with a flexible user interface giving the user option to use the default garden provided, generate a garden using Voronoi pattern or create a garden as per his/ her choice. The garden uses five primitives which can be used as it is or could be traded with a higher level geometry per the requirement. To start with the user is given three options to choose from:
 
